@@ -1,6 +1,6 @@
 """Manual tests."""
 
-from PySide import QtGui
+from PySide2 import QtGui
 
 from .knob import InputKnob, OutputKnob
 from .header import Header

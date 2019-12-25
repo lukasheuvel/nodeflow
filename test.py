@@ -1,4 +1,4 @@
-from PyQt5 import QtGui
+from PySide2 import QtGui
 from qtnodes import (Header, Node, InputKnob,
                      OutputKnob, NodeGraphWidget)
 

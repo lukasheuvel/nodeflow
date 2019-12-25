@@ -2,8 +2,8 @@
 
 import uuid
 
-from PyQt5 import QtGui
-from PyQt5 import QtCore
+from PySide2 import QtGui
+from PySide2 import QtCore
 
 from .helpers import getTextSize
 from .knob import Knob, InputKnob, OutputKnob
